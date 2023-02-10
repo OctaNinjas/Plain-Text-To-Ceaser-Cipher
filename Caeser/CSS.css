@@ -1,0 +1,50 @@
+        body {
+            background-color: rgba(163, 255, 255, 0.463);
+        }
+
+        h3 {
+            text-align: center;
+            font-size: 40px;
+            font-family: 'Dosis', sans-serif;
+        }
+
+        .container {
+            width: 50vw;
+            height: 40vh;
+            border: 3px solid rgba(246, 242, 45, 0.883);
+            margin: auto;
+            position: relative;
+            top: 100px;
+            border-radius: 20px;
+        }
+
+        .text {
+            font-family: 'Dosis', sans-serif;
+            text-align: center;
+        }
+
+        #input_do {
+            position: relative;
+            padding-top: 12px;
+            border-radius: 8px;
+        }
+
+        #output_do {
+            position: relative;
+            padding-top: 12px;
+            border-radius: 8px;
+        }
+
+        .input_box_set {
+            position: relative;
+            padding-left: 200px;
+        }
+
+        .precaution{
+            position: relative;
+            top: 50vh;
+            margin-left: 24px;
+            background-color: rgba(142, 249, 249, 0.828);
+            display: inline-block;
+        }
+  
